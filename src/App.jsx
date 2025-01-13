@@ -85,7 +85,7 @@ function App() {
                 <div className="nm">
                   <IoMusicalNotesSharp /> hazel, instrumental version, Karaoke
                   boy, slow-...
-                  <div>
+                  <div className="mn">
                     <CiMenuKebab />
                   </div>
                 </div>
