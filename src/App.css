@@ -1,0 +1,169 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  height: 915px;
+  width:  415px;
+  background-color: #0c0f14;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-family: Instagram Sans ;
+  
+}
+
+.logo img{
+  width: 120px;
+  color: antiquewhite;
+}
+
+.top{
+  /* border: 2px solid white; */
+  height: 65px;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  margin-right: 10px;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.logo-2{
+  display: flex;
+  align-items: center;
+  gap: 25px;
+margin-right: -24px;
+
+  .r svg{
+    font-size: 25px;
+  }
+}
+
+.ty img{
+  width: 30px;
+}
+.second-top .gf img{
+  width: 81px;
+  border-radius: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 83px;
+ 
+}
+
+.second-top .er img{
+   border: 4px solid #ed8a28;
+   object-fit: cover
+
+}
+
+.second-top .rj img{
+  border: 4px solid green;
+  object-fit: cover;
+  
+
+}
+
+.second-top .tm img{
+  border: 4px solid black;
+  object-fit: cover;
+
+}
+
+.second-top{
+  display: flex;
+  gap: 10px;
+  margin-right: 10px;
+  margin-left: 2px;
+  margin-bottom: 11px;
+  position: relative;
+  margin-top: 1px;
+  
+}
+
+.gk{
+  position: absolute;
+  top: 65px;
+  background-color: white;
+  color: black;
+  width: 21px;
+  height: 21px;
+  border-radius: 50px;
+  display: flex;
+  border: 4px solid black;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+ 
+  right: 295px;
+}
+
+.barca{
+  border-bottom: 2px solid #0f1217;
+}
+.gf{
+  display: flex;
+  flex-direction: column;
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.c{
+  color: #dcdfe4;
+  font-size: 15px;
+}
+.uy img{
+  width: 53px;
+  width: 39px;
+  border-radius: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 38px;
+  border: 2px solid white;
+ 
+}
+.you{
+  color: white;
+  display: flex;
+  gap: 5px;
+  margin-left: 6px;
+}
+.nm{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  font-size: 14px;
+}
+.k{
+  margin-left: 5px;
+}
+.ku{
+  font-weight: 15px;
+}
+
+.oi img{
+width: 389px;
+margin-top: 20px;
+object-fit: cover;
+/* border: 2px solid red; */
+}
+.oi{}
+
+.footer{
+  color: white;
+  /* border: 2px solid white; */
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+  margin-top: 70px;
+  border-top: 2px solid #0f1217;
+  font-size: 25px;
+
+}
+
