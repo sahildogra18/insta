@@ -100,10 +100,10 @@ function App() {
           <div className="heroSection">
             <div className="you">
               <div className="uy">
-                <img src={djr} alt="" />
+                <img src={propic4} alt="" />
               </div>
               <div>
-                <div className="k">elitesWealthh</div>
+                <div className="k">sudhanshu_dogra</div>
                 <div className="nm">
                   <IoMusicalNotesSharp /> hazel, instrumental version, Karaoke
                   boy, slow-...
@@ -116,7 +116,7 @@ function App() {
           </div>
 
           <div className="oi">
-            <img src={djr} alt="" />
+            <img src={propic4} alt="" />
           </div>
 
           <div className="footer">
