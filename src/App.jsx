@@ -97,6 +97,28 @@ function App() {
             <img src={djr} alt="" />
           </div>
 
+          <div className="heroSection">
+            <div className="you">
+              <div className="uy">
+                <img src={djr} alt="" />
+              </div>
+              <div>
+                <div className="k">elitesWealthh</div>
+                <div className="nm">
+                  <IoMusicalNotesSharp /> hazel, instrumental version, Karaoke
+                  boy, slow-...
+                  <div className="mn">
+                    <CiMenuKebab />
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="oi">
+            <img src={djr} alt="" />
+          </div>
+
           <div className="footer">
             <div>
               <RiHome2Line />
